@@ -1,0 +1,2 @@
+- npm init -y
+- npm install express zod config cors express mongoose pino pino-pretty dayjs bcrypt jsonwebtoken lodash nanoid
